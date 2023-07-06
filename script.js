@@ -1,5 +1,5 @@
 let urlBase = 'https://api.openweathermap.org/data/2.5/weather'
-let api_key = '605507acf87117e111e54a3ab5238541'
+let api_key = '28649bf4ce9e4555a4e91bbc0f669cb0'
 let difKelvin = 273.15
 
 
